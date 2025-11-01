@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|c:\\users\\administrator\\source\\repos\\employee\\employee\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|solutionrelative:employee\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|c:\\users\\administrator\\source\\repos\\employee\\employee\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|solutionrelative:employee\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|c:\\users\\administrator\\source\\repos\\employee\\employee\\models\\emp_tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|solutionrelative:employee\\models\\emp_tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|c:\\users\\administrator\\source\\repos\\employee\\employee\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|solutionrelative:employee\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|c:\\users\\administrator\\source\\repos\\employee\\employee\\employee_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|solutionrelative:employee\\employee_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|c:\\users\\administrator\\source\\repos\\employee\\employee\\employee_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|solutionrelative:employee\\employee_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|c:\\users\\administrator\\source\\repos\\employee\\employee\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|solutionrelative:employee\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|c:\\users\\administrator\\source\\repos\\employee\\employee\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|solutionrelative:employee\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|c:\\users\\administrator\\source\\repos\\employee\\employee\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|solutionrelative:employee\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|c:\\users\\administrator\\source\\repos\\employee\\employee\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|solutionrelative:employee\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|c:\\users\\administrator\\source\\repos\\employee\\employee\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8981219D-825C-4ABC-B7AB-921818B058BC}|Employee\\Employee.csproj|solutionrelative:employee\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Employee\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\AdminWindow.xaml.cs*",
+              "RelativeToolTip": "Employee\\AdminWindow.xaml.cs*",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAswIQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T11:09:54.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Emp_tasks.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\Models\\Emp_tasks.cs",
+              "RelativeDocumentMoniker": "Employee\\Models\\Emp_tasks.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\Models\\Emp_tasks.cs",
+              "RelativeToolTip": "Employee\\Models\\Emp_tasks.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T09:41:03.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "Employee\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\AdminWindow.xaml*",
+              "RelativeToolTip": "Employee\\AdminWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-01T10:54:51.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Employee\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Employee\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowC8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T08:39:06.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee_Window.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\Employee_Window.xaml.cs",
+              "RelativeDocumentMoniker": "Employee\\Employee_Window.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\Employee_Window.xaml.cs",
+              "RelativeToolTip": "Employee\\Employee_Window.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCMAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T09:25:43.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee_Window.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\Employee_Window.xaml",
+              "RelativeDocumentMoniker": "Employee\\Employee_Window.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\Employee_Window.xaml",
+              "RelativeToolTip": "Employee\\Employee_Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-01T09:09:49.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Employee\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\Models\\Users.cs",
+              "RelativeToolTip": "Employee\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T08:56:11.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Employee\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\MainWindow.xaml",
+              "RelativeToolTip": "Employee\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-01T08:39:10.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\App.xaml",
+              "RelativeDocumentMoniker": "Employee\\App.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\App.xaml",
+              "RelativeToolTip": "Employee\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-01T11:18:41.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\Data\\MyDbcontext.cs",
+              "RelativeDocumentMoniker": "Employee\\Data\\MyDbcontext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\Data\\MyDbcontext.cs",
+              "RelativeToolTip": "Employee\\Data\\MyDbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T09:00:28.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Employee\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Employee\\Employee\\AssemblyInfo.cs",
+              "RelativeToolTip": "Employee\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T10:06:08.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
